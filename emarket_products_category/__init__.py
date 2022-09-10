@@ -1,0 +1,1 @@
+default_app_config = 'emarket_products_category.apps.EmarketProductsCategoryConfig'
